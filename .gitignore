@@ -76,7 +76,14 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Claude Code session files
+.claude/
 
 # IPython
 profile_default/
